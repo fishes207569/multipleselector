@@ -1,0 +1,19 @@
+{
+  "name": "ccheng/multiple-selector",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ccheng",
+      "email": "fishes207569@126.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ccheng\\multipleselector\\": "src/"
+    }
+  }
+}
